@@ -1,0 +1,15 @@
+{
+  "name": "tour-and-travel-website",
+  "version": "1.0.0",
+  "description": "Tour website project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shipra Saumya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
